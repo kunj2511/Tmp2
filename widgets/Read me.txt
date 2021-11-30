@@ -1,0 +1,4 @@
+write this line on the bottom of the
+theme folder -> tweennighteen->fuctions.php
+
+require_once('customwidget.php');
